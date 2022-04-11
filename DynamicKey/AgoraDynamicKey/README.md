@@ -33,18 +33,18 @@ Sample Code for generating AccessToken are available on the following platforms:
 
 ### C++
 
-+ https://github.com/AgoraIO/Tools/blob/master/DynamicKey/AgoraDynamicKey/cpp/src/SimpleTokenBuilder.h
-+ https://github.com/AgoraIO/Tools/blob/master/DynamicKey/AgoraDynamicKey/cpp/src/AccessToken.h
++ https://github.com/meta-rti/Tools/blob/master/DynamicKey/AgoraDynamicKey/cpp/src/SimpleTokenBuilder.h
++ https://github.com/meta-rti/Tools/blob/master/DynamicKey/AgoraDynamicKey/cpp/src/AccessToken.h
 
 ### Go
 
-+ https://github.com/AgoraIO/Tools/blob/master/DynamicKey/AgoraDynamicKey/go/src/SimpleTokenBuilder/SimpleTokenBuilder.go
-+ https://github.com/AgoraIO/Tools/blob/master/DynamicKey/AgoraDynamicKey/go/src/AccessToken/AccessToken.go
++ https://github.com/meta-rti/Tools/blob/master/DynamicKey/AgoraDynamicKey/go/src/SimpleTokenBuilder/SimpleTokenBuilder.go
++ https://github.com/meta-rti/Tools/blob/master/DynamicKey/AgoraDynamicKey/go/src/AccessToken/AccessToken.go
 
 ### Java
 
-+ https://github.com/AgoraIO/Tools/blob/master/DynamicKey/AgoraDynamicKey/java/src/main/java/io/agora/media/SimpleTokenBuilder.java
-+ https://github.com/AgoraIO/Tools/blob/master/DynamicKey/AgoraDynamicKey/java/src/main/java/io/agora/media/AccessToken.java
++ https://github.com/meta-rti/Tools/blob/master/DynamicKey/AgoraDynamicKey/java/src/main/java/io/agora/media/SimpleTokenBuilder.java
++ https://github.com/meta-rti/Tools/blob/master/DynamicKey/AgoraDynamicKey/java/src/main/java/io/agora/media/AccessToken.java
 
 ### Node.js
 
@@ -53,22 +53,22 @@ Sample Code for generating AccessToken are available on the following platforms:
 
 ### Python
 
-+ https://github.com/AgoraIO/Tools/blob/master/DynamicKey/AgoraDynamicKey/python/src/SimpleTokenBuilder.py
-+ https://github.com/AgoraIO/Tools/blob/master/DynamicKey/AgoraDynamicKey/python/src/AccessToken.py
++ https://github.com/meta-rti/Tools/blob/master/DynamicKey/AgoraDynamicKey/python/src/SimpleTokenBuilder.py
++ https://github.com/meta-rti/Tools/blob/master/DynamicKey/AgoraDynamicKey/python/src/AccessToken.py
 
 ### PHP
 
-+ https://github.com/AgoraIO/Tools/blob/master/DynamicKey/AgoraDynamicKey/php/src/SimpleTokenBuilder.php
-+ https://github.com/AgoraIO/Tools/blob/master/DynamicKey/AgoraDynamicKey/php/src/AccessToken.php
++ https://github.com/meta-rti/Tools/blob/master/DynamicKey/AgoraDynamicKey/php/src/SimpleTokenBuilder.php
++ https://github.com/meta-rti/Tools/blob/master/DynamicKey/AgoraDynamicKey/php/src/AccessToken.php
 
 ### Perl
 
-+ https://github.com/AgoraIO/Tools/blob/master/DynamicKey/AgoraDynamicKey/perl/src/Agora/SimpleTokenBuilder.pm
-+ https://github.com/AgoraIO/Tools/blob/master/DynamicKey/AgoraDynamicKey/perl/src/Agora/AccessToken.pm
++ https://github.com/meta-rti/Tools/blob/master/DynamicKey/AgoraDynamicKey/perl/src/Agora/SimpleTokenBuilder.pm
++ https://github.com/meta-rti/Tools/blob/master/DynamicKey/AgoraDynamicKey/perl/src/Agora/AccessToken.pm
 
 ### CSharp
 
-+ https://github.com/AgoraIO/Tools/blob/master/DynamicKey/AgoraDynamicKey/csharp/src/AgoraIO/Media/AccessToken.cs
++ https://github.com/meta-rti/Tools/blob/master/DynamicKey/AgoraDynamicKey/csharp/src/AgoraIO/Media/AccessToken.cs
 
 ### **YOUR IMPLEMENTATIONS ARE VERY WELCOME.**
 
