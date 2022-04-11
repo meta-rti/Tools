@@ -33,32 +33,26 @@ Sample Code for generating AccessToken are available on the following platforms:
 
 ### C++
 
-+ https://github.com/meta-rti/Tools/blob/master/DynamicKey/AgoraDynamicKey/cpp/src/SimpleTokenBuilder.h
 + https://github.com/meta-rti/Tools/blob/master/DynamicKey/AgoraDynamicKey/cpp/src/AccessToken.h
 
 ### Go
 
-+ https://github.com/meta-rti/Tools/blob/master/DynamicKey/AgoraDynamicKey/go/src/SimpleTokenBuilder/SimpleTokenBuilder.go
 + https://github.com/meta-rti/Tools/blob/master/DynamicKey/AgoraDynamicKey/go/src/AccessToken/AccessToken.go
 
 ### Java
 
-+ https://github.com/meta-rti/Tools/blob/master/DynamicKey/AgoraDynamicKey/java/src/main/java/io/agora/media/SimpleTokenBuilder.java
 + https://github.com/meta-rti/Tools/blob/master/DynamicKey/AgoraDynamicKey/java/src/main/java/io/agora/media/AccessToken.java
 
 ### Node.js
 
-+ https://github.com/AgoraIO/Tools/blob/master/DynamicKey/AgoraDynamicKey/nodejs/src/SimpleTokenBuilder.js
 + https://github.com/AgoraIO/Tools/blob/master/DynamicKey/AgoraDynamicKey/nodejs/src/AccessToken.js
 
 ### Python
 
-+ https://github.com/meta-rti/Tools/blob/master/DynamicKey/AgoraDynamicKey/python/src/SimpleTokenBuilder.py
 + https://github.com/meta-rti/Tools/blob/master/DynamicKey/AgoraDynamicKey/python/src/AccessToken.py
 
 ### PHP
 
-+ https://github.com/meta-rti/Tools/blob/master/DynamicKey/AgoraDynamicKey/php/src/SimpleTokenBuilder.php
 + https://github.com/meta-rti/Tools/blob/master/DynamicKey/AgoraDynamicKey/php/src/AccessToken.php
 
 ### Perl
