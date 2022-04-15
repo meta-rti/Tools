@@ -45,7 +45,7 @@ Sample Code for generating AccessToken are available on the following platforms:
 
 ### Node.js
 
-+ https://github.com/AgoraIO/Tools/blob/master/DynamicKey/AgoraDynamicKey/nodejs/src/AccessToken.js
++ https://github.com/meta-rti/Tools/blob/master/DynamicKey/AgoraDynamicKey/nodejs/src/AccessToken.js
 
 ### Python
 
