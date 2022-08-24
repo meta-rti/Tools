@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"rtctokenbuilder"
 	"time"
+	rtctokenbuilder "github.com/AgoraIO/Tools/DynamicKey/AgoraDynamicKey/go/src/RtcTokenBuilder"
 )
 
 func main() {
